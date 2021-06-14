@@ -13,4 +13,4 @@ S.No. | Topic for Learn365
 **5** |  iOS Application Pentesting
 **6** |  Thick Client Pentesting
 **7** |  Cloud Configuration Review
-**8** |  <ADD_HERE>
+**8** |  <sql injection>
